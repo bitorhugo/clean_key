@@ -1,13 +1,13 @@
 # clean_key
 Ever wanted to just clean your laptop keyboard without turning off your computer?
 
-#WORRY NOT
+# WORRY NOT
 clean_key enables you to do so
 
-#REQUIREMENTS
+# REQUIREMENTS
 Time to clean 
 
-#Instructions
+# Instructions
 To run: 
 ```
 cd clean_key && ./clean_key
